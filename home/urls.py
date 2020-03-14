@@ -14,7 +14,6 @@ urlpatterns = [
     # url(r'contact', views.contact, name='contact'), 
     # url(r'elements', views.elements, name='elements'), 
     # url(r'main', views.main, name='main'), 
-    # url(r'service', views.service, name='service'), 
     # url(r'single', views.single, name='single'), 
     # url(r'list', views.list1, name='list'), 
     # url(r'post/(\d+)$', views.post_page, name='post'), 
