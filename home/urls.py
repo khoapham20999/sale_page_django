@@ -13,6 +13,7 @@ urlpatterns = [
     # url(r'blog', views.blog, name='blog'), 
     # url(r'contact', views.contact, name='contact'), 
     # url(r'elements', views.elements, name='elements'), 
+    # remove service url
     # url(r'main', views.main, name='main'), 
     # url(r'single', views.single, name='single'), 
     # url(r'list', views.list1, name='list'), 
